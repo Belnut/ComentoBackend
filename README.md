@@ -16,7 +16,12 @@
 - mariaDB, Mysql Workbench 사용
 - root 계정 사용 대신 권한제한 계정 생성 후 사용
 - Maven을 통해 Spring외 log4j, mybatis, mariaDB jdbc 패키지 추가
-- DAO, mybatis로 DB의 MovieTable의 요소를 읽어오는 것을 확인 
+- DAO, mybatis로 DB의 MovieTable의 요소를 읽어오는 것을 확인
 
-### 5. 기타사항
+### 5. Spring, Spring Boot 환경 구축 차이
+- Spring-boot는 추가적 환경설정 비용이 적음(dependency, context)
+  - 이 차이는 IDE에 따라 어느정도 보완해준다.
+- Spring-boot는 WAS가 기본 내장 (Embedded Tomcat)
+
+### 6. 기타사항
 - 앞으로의 개발환경의 root는 dev 폴더로 설정
