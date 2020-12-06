@@ -32,5 +32,10 @@
 ### 1. 인터페이스 가이드 문서 작성
 - 참고문서 : KAKAO API 참고문서 관심 키워드
   - link : https://www.jejudatahub.net/api/files/download/1,74603d1d84
+
 - 과제작성 : SW 활용율 (접속자 수, 부서별 접속자 수, 로그인 요청 수, 게시글 작성 수)
   - link : https://docs.google.com/document/d/1THnGPAtFVN-mdnBL44V0dEr8IT9LXpj_lpLndkqNm74/edit?usp=sharing
+  
+- 질문내용 
+  - 실제 클라이언트 개발자와 협업할 때 API 문서를 먼저 작성하나요?
+  - 협업 시 주의해야 할 점이나 초보 개발자가 자주 실수하는 것이 있나요?
